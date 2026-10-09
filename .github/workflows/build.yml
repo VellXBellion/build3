@@ -795,7 +795,7 @@ jobs:
                   handler.postDelayed(() -> {
                       scrambleText(
                               buildText,
-                              "POWERED BY XSAT",
+                              "POWERED BY 4VELL",
                               0,
                               () -> {
                                   handler.postDelayed(() -> {
@@ -804,7 +804,7 @@ jobs:
                                       fadeIn(thanksText);
                                       scrambleText(
                                               thanksText,
-                                              "THANK YOU FOR USING WEB2APK XSAT",
+                                              "THANK YOU FOR USING WEB2APK 4VELL",
                                               0,
                                               () -> {
                                                   handler.postDelayed(() -> {
